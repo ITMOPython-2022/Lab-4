@@ -55,3 +55,6 @@
 **Допзадание.** 
 
 Найти решение или доказать его отсутствие для случая с инвентарём в 7 ячеек.
+
+**Дополнительно**
+Описание задачи о рюкзаке: https://proglib.io/p/python-i-dinamicheskoe-programmirovanie-na-primere-zadachi-o-ryukzake-2020-02-04
